@@ -1,10 +1,9 @@
 # Manual and Automatic Deploy for Flask App powered ML Model on AWS EC2 Instance amazon linux
 
 
-## Image
-<div style="text-align:center;">
-    <img src="https://github.com/Baraa-Rayed/ML_Flask_app/assets/101131013/3150465d-69d0-4c02-8567-de065fed2104" alt="hqdefault">
-</div>
+<p align="center">
+     <img src="https://github.com/Baraa-Rayed/ML_Flask_app/assets/101131013/3150465d-69d0-4c02-8567-de065fed2104" alt="hqdefault">
+</p>
 
 ## 🤖 Introduction
 
