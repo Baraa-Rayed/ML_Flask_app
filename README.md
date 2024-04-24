@@ -104,7 +104,7 @@ paste this configuration into it:
 
 ```
 [Unit]
-Description=Gunicorn instance for a simple hello world app
+Description=Gunicorn instance for a simple ML flask app
 After=network.target
 
 [Service]
