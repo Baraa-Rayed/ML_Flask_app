@@ -59,7 +59,7 @@ Then, install the Python virtual environment package:
 ```bash
 yum install -y python3-pip
 ```
-### **2. Clone the repository **
+### **2. Clone the repository**
 ```bash
 git clone https://<Your User Namer>:<github Token>@github.com/<Your User Namer>/ML_Flask_app.git
 ```
@@ -125,7 +125,7 @@ sudo systemctl start ML_Flask_app
 sudo systemctl enable ML_Flask_app
 ```
 
-### **6. Verify Flask App is runining **
+### **6. Verify Flask App is runining**
 
 ```bash
 sudo systemctl status ML_Flask_app
