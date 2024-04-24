@@ -251,7 +251,7 @@ Now, your Flask application should be accessible via your EC2 instance's public 
 ## Automatic way:
 
 
-just upload the **mldemocf.yaml** stack to the cloud formartion and then the only thing that you need to repeat manually is to provide the nginx configiration file  with:
+just upload the **mldemocf.yaml** stack to the cloud formartion and then the only thing that you need to do manually is to provide the nginx configiration file  with:
 
 ```
 upstream flaskML_Flask_app {
@@ -275,7 +275,7 @@ Congratulations! You have successfully deployed a Flask web application on an AW
 
 You can also give this repository a star to show more people and they can use this repository.
 
-## 📋 <a name="table">Table of Contents</a>
+
 ## 📚 Learn More
 Of course! Here are the resources with descriptions and direct links:
 
