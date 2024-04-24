@@ -40,7 +40,7 @@ In this tutorial, we'll guide you through the process of deploying a ML Flask we
 
 ### **1. Clone this project to EC2**
 
-First, SSH into your EC2 instance and update the package list or connect to it by using the EC2 connect manager:
+First, SSH into your EC2 instance and update the package list or connect to it by using aws console:
 
 ```bash
 sudo su
